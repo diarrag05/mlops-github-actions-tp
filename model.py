@@ -15,3 +15,5 @@ def predict_sentiment(text):
     if "sad" in text.lower() or "bad" in text.lower(): 
         return "negative" 
     return "neutral"
+
+# Ceci est une modification de test pour une Pull Request
